@@ -1,4 +1,4 @@
---db formatted sql
+--liquibase formatted sql
 
 --changeset renanpelicari:1
 CREATE TABLE T_PERSON (

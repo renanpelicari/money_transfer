@@ -1,4 +1,4 @@
---db formatted sql
+--liquibase formatted sql
 
 --changeset renanpelicari:3
 CREATE TABLE T_ACCOUNT_TRANSFER_HIST (
